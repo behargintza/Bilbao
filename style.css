@@ -11,16 +11,11 @@ h1 {
 	margin: 5px auto;
 }
 
-#mainPhoto {
-	padding: 0em;
-	margin: 0.5em;
 
-}
 
 #image {
-	width: 1em;
 	border: 1px solid black;
-	height: 35vh;
+	height: 40vh;
 	margin: 4vh;
 	background-size: cover;
 	background-repeat: no-repeat;
